@@ -1,7 +1,1 @@
-file1 created
-
-
-
-
-
-new line added
+newly created line
